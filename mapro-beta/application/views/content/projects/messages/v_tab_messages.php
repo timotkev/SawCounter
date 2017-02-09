@@ -1,1 +1,0 @@
-You can show global message here.
